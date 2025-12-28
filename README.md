@@ -1,0 +1,2 @@
+# Algoritma--odev
+Final ödevi 
